@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=esc5221)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **esc5221/esc5221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
